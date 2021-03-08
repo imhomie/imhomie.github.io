@@ -1,0 +1,61 @@
+html{
+  background-color:papayawhip;
+  text-align:center;
+
+}
+img{
+  width:250px;
+  border-radius:50%;
+}
+
+
+
+header h1{
+  font-weight:normal;
+  color:salmon;
+  margin:35px;
+  border-bottom:2px solid salmon;
+}
+
+header p{
+  font-weight:nomal;
+  color:olive;
+  
+}
+
+.discription{
+  width:50%;
+  margin:35px auto;
+}
+
+body{
+  margin:0;
+}
+
+.shumi{
+  margin:35px 0;
+  padding:0 10%;
+  
+  color:olive;
+}
+
+.shumi > h1{
+  color:salmon;
+  border:2px solid salmon;
+  display:inline;
+  padding:10px 20px;
+  /* background-color:salmon; */
+}
+.shumi img{
+  width:200px;
+}
+
+ul{
+  list-style:none;
+  display:flex;
+  padding:0;
+  }
+
+  li{
+    margin:0 auto;
+  }
